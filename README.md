@@ -4,7 +4,7 @@
 ## 任务描述
 对于自动售货机摄像头拍摄的静态数据，进行商品的检测，并按照图像检索的方式确定商品类别
 
-<img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/1.png", height="200"></img>
+<img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/1.png" height="200" />
 
 ## 阶段一
 
@@ -25,6 +25,12 @@
 * 遮挡问题
 
 * 罐装，盒装，瓶装商品高宽差距较大。解决方案：KMean聚类
+
+<p float="left">
+  <img src="https://github.com/ielym/HuaLuCup2020/blob/main/datas/train/1.jpg" height="200" />
+  <img src="https://github.com/ielym/HuaLuCup2020/blob/main/datas/train/2.jpg" height="200" /> 
+  <img src="https://github.com/ielym/HuaLuCup2020/blob/main/datas/train/6.jpg" height="200" /> 
+</p>
 
 * 光照影响明显
 
