@@ -44,4 +44,3 @@
   <img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/9.jpg" height="200" />
 </p>
 
-## 阶段二
