@@ -7,10 +7,10 @@
 
 ## 阶段一
 
-###检测：
+### 检测：
 * Faster RCNN : resnext101_32x8d + ROIAlign
 * objectness二分类，CIOU Loss
-###检索：
+### 检索：
 * CE Loss 预训练
 * Triplet Loss, ArcFace 微调
 * KNN, k=10, cosine distance
@@ -18,7 +18,7 @@
 
 
 
-###问题分析：
+### 问题分析：
 * 长尾分布
 
 * 遮挡问题
