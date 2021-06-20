@@ -4,6 +4,7 @@
 ## 任务描述
 对于自动售货机摄像头拍摄的静态数据，进行商品的检测，并按照图像检索的方式确定商品类别
 
+<img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/1.png", height="200"></img>
 
 ## 阶段一
 
