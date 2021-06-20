@@ -1,6 +1,8 @@
 # Products-Detection-and-Retrieval
 自动售货机商品检测检索
 
+* [模型权重下载(百度云)](https://pan.baidu.com/s/1JeicjkWVYDpyrTDGI7bKKA ) 提取码：1f7i
+
 ## 任务描述
 对于自动售货机摄像头拍摄的静态数据，进行商品的检测，并按照图像检索的方式确定商品类别
 
