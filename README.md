@@ -35,7 +35,7 @@
   <img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/5.jpg" height="200" />
 </p>
 
-<img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/6.png" height="500" />
+<img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/6.png" height="300" />
 
 * 光照影响明显
 
