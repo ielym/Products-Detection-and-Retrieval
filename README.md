@@ -26,13 +26,13 @@
 
 * 遮挡问题
 
-<img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/3.png" height="500" />
+<img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/3.png" height="200" />
 
 * 罐装，盒装，瓶装商品高宽差距较大。解决方案：KMean聚类
 
 <p float="left">
-  <img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/4.jpg" height="500" />
-  <img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/5.jpg" height="500" />
+  <img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/4.jpg" height="200" />
+  <img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/5.jpg" height="200" />
 </p>
 
 <img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/6.png" height="500" />
@@ -40,8 +40,8 @@
 * 光照影响明显
 
 <p float="left">
-  <img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/8.jpg" height="500" />
-  <img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/9.jpg" height="500" />
+  <img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/8.jpg" height="200" />
+  <img src="https://github.com/ielym/Products-Detection-and-Retrieval/blob/main/imgs/9.jpg" height="200" />
 </p>
 
 ## 阶段二
